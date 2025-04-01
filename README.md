@@ -14,7 +14,7 @@ I'm Moss, a green GitHub user.
 
 🌻 Pronouns: He/It/Ey/Hu (no They)
 
-📚 My "on-going" project is my [Neocities] Project: ternoonvoid !
+📚 My "on-going" project is my [Neocities]: ternoonvoid !
 
 📫 Reach me at [Tumblr] - consciouschunkofmoss 🤍
 
