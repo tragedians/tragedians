@@ -7,7 +7,7 @@
 I'm Moss, a green GitHub user.
 
 🌱 I'm currently re-learning the basics of Coding ~(>_<。)
-    ⤷ Languages Include:
+    ➤ Languages Include:
       • HTML
       • CSS
       • JS
